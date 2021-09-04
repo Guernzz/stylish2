@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+}
+
+div{
+    color: white;
+}
+
+#box1{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+
+#box2{
+    background-color: blue;
+    width: 300px;
+    height: 400px;
+    border: solid 2px red;
+}
+
+#box3{
+    background-color: green;
+    width: 250px;
+    height: 600px;
+    border-radius: 6px;
+}
+
+h1{
+    color: white;
+    font-size: 20px;
+    width: 400px;
+    text-align: center;
+}
+
+h2{
+    color: orange;
+    font-size: 20px;
+    width: 800px;
+    text-align: right;
+}
